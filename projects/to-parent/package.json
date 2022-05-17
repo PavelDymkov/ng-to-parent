@@ -1,0 +1,20 @@
+{
+    "name": "ng-to-parent",
+    "version": "1.0.0",
+    "description": "From child component to parent component data transport",
+    "keywords": [
+        "angular"
+    ],
+    "author": {
+        "name": "Pavel Dymkov",
+        "email": "dymkov86@gmail.com"
+    },
+    "peerDependencies": {
+        "@angular/core": "*",
+        "rxjs": "*"
+    },
+    "dependencies": {
+        "logical-not": "^1.0.9",
+        "tslib": "^2.3.0"
+    }
+}
