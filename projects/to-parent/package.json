@@ -9,6 +9,11 @@
         "name": "Pavel Dymkov",
         "email": "dymkov86@gmail.com"
     },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PavelDymkov/ng-to-parent.git"
+    },
     "peerDependencies": {
         "@angular/core": "*",
         "rxjs": "*"

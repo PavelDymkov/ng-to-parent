@@ -1,5 +1,7 @@
 # ng-to-parent
 
+![tests: passing](https://raw.githubusercontent.com/PavelDymkov/ng-to-parent/master/badges/tests.svg)
+
 Send data to parent.
 
 ```ts

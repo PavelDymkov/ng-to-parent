@@ -3,6 +3,7 @@
     "version": "0.0.0",
     "scripts": {
         "prepublishOnly": "exit 0",
+        "pub": "packagr",
         "start": "ng serve",
         "test": "mocha --config test/mocha.config.js",
         "watch": "ng build --watch --configuration development"

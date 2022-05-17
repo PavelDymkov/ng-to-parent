@@ -14,7 +14,7 @@
         "noImplicitReturns": true,
         "noPropertyAccessFromIndexSignature": true,
         "paths": {
-            "ng-to-parent": ["package"]
+            "ng-to-parent": ["../package"]
         },
         "skipLibCheck": true,
         "sourceMap": true,

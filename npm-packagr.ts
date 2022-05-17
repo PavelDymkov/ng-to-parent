@@ -23,12 +23,12 @@ npmPackagr({
             message: "passing",
         }),
 
-        ({ exec, packageDirectory }: PipelineContext) => {
-            const projectDirectory = "projects/to-parent";
+        // ({ exec, packageDirectory }: PipelineContext) => {
+        //     const projectDirectory = "projects/to-parent";
 
-            exec("npm version patch", { cd: projectDirectory });
-            exec("npm version patch", { cd: packageDirectory });
-        },
+        //     exec("npm version patch", { cd: projectDirectory });
+        //     exec("npm version patch", { cd: packageDirectory });
+        // },
 
         createLicenseBadge,
 
